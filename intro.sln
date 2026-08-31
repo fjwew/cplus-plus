@@ -5,6 +5,8 @@ VisualStudioVersion = 17.14.36109.1 d17.14
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "intro to C++", "intro to C++\intro to C++.vcxproj", "{1402179C-3465-4E3C-BC58-706D206FE009}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "data types", "data types\data types.vcxproj", "{DE0F1ECE-4837-4644-B037-428425A5A1D7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|ARM = Debug|ARM
@@ -27,6 +29,18 @@ Global
 		{1402179C-3465-4E3C-BC58-706D206FE009}.Release|x64.Build.0 = Release|x64
 		{1402179C-3465-4E3C-BC58-706D206FE009}.Release|x86.ActiveCfg = Release|Win32
 		{1402179C-3465-4E3C-BC58-706D206FE009}.Release|x86.Build.0 = Release|Win32
+		{DE0F1ECE-4837-4644-B037-428425A5A1D7}.Debug|ARM.ActiveCfg = Debug|x64
+		{DE0F1ECE-4837-4644-B037-428425A5A1D7}.Debug|ARM.Build.0 = Debug|x64
+		{DE0F1ECE-4837-4644-B037-428425A5A1D7}.Debug|x64.ActiveCfg = Debug|x64
+		{DE0F1ECE-4837-4644-B037-428425A5A1D7}.Debug|x64.Build.0 = Debug|x64
+		{DE0F1ECE-4837-4644-B037-428425A5A1D7}.Debug|x86.ActiveCfg = Debug|Win32
+		{DE0F1ECE-4837-4644-B037-428425A5A1D7}.Debug|x86.Build.0 = Debug|Win32
+		{DE0F1ECE-4837-4644-B037-428425A5A1D7}.Release|ARM.ActiveCfg = Release|x64
+		{DE0F1ECE-4837-4644-B037-428425A5A1D7}.Release|ARM.Build.0 = Release|x64
+		{DE0F1ECE-4837-4644-B037-428425A5A1D7}.Release|x64.ActiveCfg = Release|x64
+		{DE0F1ECE-4837-4644-B037-428425A5A1D7}.Release|x64.Build.0 = Release|x64
+		{DE0F1ECE-4837-4644-B037-428425A5A1D7}.Release|x86.ActiveCfg = Release|Win32
+		{DE0F1ECE-4837-4644-B037-428425A5A1D7}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
