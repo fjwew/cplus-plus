@@ -121,7 +121,7 @@ int main()
 	//	cout << "такого дня немає" << endl;
 	//}
 
-	float a, b, result;
+	/*float a, b, result;
 	char key;
 
 	cout << "enter first number -> ";
@@ -207,12 +207,134 @@ int main()
 		break;
 	case 6:
 	case 7:
-		cout << "its weekend!" << endl;
+		cout << "its weekend!" << endl;*/
 
 
 
+		// practical work
+		// country
+
+	int country;
+
+	cout << "[1] Ukraine, [2] Austria, [3] Deutschland, [4] USA, [5] Lithuania -> ";
+	cin >> country;
+
+	switch (country) {
+	case 1:
+		cout << "ukrainian capital city - Kyiv" << endl;
+		break;
+
+	case 2:
+		cout << "austrian capital city - Vienna" << endl;
+		break;
+
+	case 3:
+		cout << "deutschlands capital city - Berlin" << endl;
+		break;
 
 
+	case 4:
+		cout << "capital city of USA - Washington" << endl;
+		break;
 
 
+	case 5:
+		cout << "lithuanian capital city - Vilnius" << endl;
+		break;
+	
+	default:
+		cout << "our database doesn`t have this country!";
 	}
+
+
+
+	// number of weekday
+
+	int day;
+	cout << "enter number of day -> ";
+	cin >> day;
+
+	switch (day) {
+	case 1:
+	case 2:
+	case 3:
+	case 4:
+	case 5:
+		cout << "its working day!" << endl;
+		break;
+	case 6:
+	case 7:
+		cout << "its weekend!" << endl;
+	default:
+		cout << "enter valid number of day";
+	}
+
+
+
+	// kurs of ship
+
+	char compass;
+
+	cout << " we will go to:\n[n] - north\n[s] - south\n[w] - west\n[e] - east" << endl;
+	
+	cin >> compass;
+
+	switch (compass) {
+	case 'n':
+		cout << "going to norh!\nsomething went wrong! we are returning back to south :(";
+		break;
+		
+	case 's':
+		cout << "going to south!\nsomething went wrong! we are returning back to north :(";
+		break;
+
+	case 'w':
+		cout << "going to west!\nsomething went wrong! we are returning back to east :(";
+		break;
+
+	case 'e':
+		cout << "going to east!\nsomething went wrong! we are returning back to west :(";
+		break;
+
+	default:
+		cout << "our database doesnt have this direction:)";
+	}
+
+
+
+	// animal
+
+	int animal;
+
+	cout << "[1] - giraffe, [2] - eagle, [3] - chicken, [4] - elephant, [5] - telepuzik";
+	
+	cin >> animal;
+
+	if (animal == 1) {
+		cout << "this animal is grassoidna";
+	}
+
+	else if (animal == 2) {
+		cout << "this animal is hishak";
+	}
+
+	else if (animal == 3) {
+		cout << "this animal is omnivor";
+	}
+
+	else if (animal == 4) {
+		cout << "this animal is grassoidna";
+	}
+
+	else if (animal == 5) {
+		cout << "this animal has pivnoye puziko";
+	}
+	else {
+		cout << "our database doesnt have this animal!!!!!!!!!";
+	}
+
+
+
+
+
+}
