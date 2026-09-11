@@ -17,6 +17,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "includecycles", "includecyc
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "arrays", "arrays\arrays.vcxproj", "{A6D9B4FC-4C1B-4630-A93F-1383A0232435}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ConsoleApplication1", "ConsoleApplication1\ConsoleApplication1.vcxproj", "{06EBB312-0207-4944-992E-BA9F8B427306}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|ARM = Debug|ARM
@@ -111,6 +113,18 @@ Global
 		{A6D9B4FC-4C1B-4630-A93F-1383A0232435}.Release|x64.Build.0 = Release|x64
 		{A6D9B4FC-4C1B-4630-A93F-1383A0232435}.Release|x86.ActiveCfg = Release|Win32
 		{A6D9B4FC-4C1B-4630-A93F-1383A0232435}.Release|x86.Build.0 = Release|Win32
+		{06EBB312-0207-4944-992E-BA9F8B427306}.Debug|ARM.ActiveCfg = Debug|x64
+		{06EBB312-0207-4944-992E-BA9F8B427306}.Debug|ARM.Build.0 = Debug|x64
+		{06EBB312-0207-4944-992E-BA9F8B427306}.Debug|x64.ActiveCfg = Debug|x64
+		{06EBB312-0207-4944-992E-BA9F8B427306}.Debug|x64.Build.0 = Debug|x64
+		{06EBB312-0207-4944-992E-BA9F8B427306}.Debug|x86.ActiveCfg = Debug|Win32
+		{06EBB312-0207-4944-992E-BA9F8B427306}.Debug|x86.Build.0 = Debug|Win32
+		{06EBB312-0207-4944-992E-BA9F8B427306}.Release|ARM.ActiveCfg = Release|x64
+		{06EBB312-0207-4944-992E-BA9F8B427306}.Release|ARM.Build.0 = Release|x64
+		{06EBB312-0207-4944-992E-BA9F8B427306}.Release|x64.ActiveCfg = Release|x64
+		{06EBB312-0207-4944-992E-BA9F8B427306}.Release|x64.Build.0 = Release|x64
+		{06EBB312-0207-4944-992E-BA9F8B427306}.Release|x86.ActiveCfg = Release|Win32
+		{06EBB312-0207-4944-992E-BA9F8B427306}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
