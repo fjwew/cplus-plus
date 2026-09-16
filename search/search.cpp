@@ -81,4 +81,11 @@ int main()
     // third exercise
     cout << "third exercise\n";
     minMaxDvoVimir(arr2, 5, 10);
+
+
+
+
+
+
+
 }
