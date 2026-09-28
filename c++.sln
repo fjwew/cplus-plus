@@ -31,6 +31,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "indicators", "indicators\in
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "links", "links\links.vcxproj", "{6A056FC2-F3E5-4780-BA12-E84EA7BAFB28}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "dynamic(dvovimirni)-arrays", "dynamic(dvovimirni)-arrays\dynamic(dvovimirni)-arrays.vcxproj", "{D27708AA-D325-423D-9C9C-58CD9C03EF99}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|ARM = Debug|ARM
@@ -209,6 +211,18 @@ Global
 		{6A056FC2-F3E5-4780-BA12-E84EA7BAFB28}.Release|x64.Build.0 = Release|x64
 		{6A056FC2-F3E5-4780-BA12-E84EA7BAFB28}.Release|x86.ActiveCfg = Release|Win32
 		{6A056FC2-F3E5-4780-BA12-E84EA7BAFB28}.Release|x86.Build.0 = Release|Win32
+		{D27708AA-D325-423D-9C9C-58CD9C03EF99}.Debug|ARM.ActiveCfg = Debug|x64
+		{D27708AA-D325-423D-9C9C-58CD9C03EF99}.Debug|ARM.Build.0 = Debug|x64
+		{D27708AA-D325-423D-9C9C-58CD9C03EF99}.Debug|x64.ActiveCfg = Debug|x64
+		{D27708AA-D325-423D-9C9C-58CD9C03EF99}.Debug|x64.Build.0 = Debug|x64
+		{D27708AA-D325-423D-9C9C-58CD9C03EF99}.Debug|x86.ActiveCfg = Debug|Win32
+		{D27708AA-D325-423D-9C9C-58CD9C03EF99}.Debug|x86.Build.0 = Debug|Win32
+		{D27708AA-D325-423D-9C9C-58CD9C03EF99}.Release|ARM.ActiveCfg = Release|x64
+		{D27708AA-D325-423D-9C9C-58CD9C03EF99}.Release|ARM.Build.0 = Release|x64
+		{D27708AA-D325-423D-9C9C-58CD9C03EF99}.Release|x64.ActiveCfg = Release|x64
+		{D27708AA-D325-423D-9C9C-58CD9C03EF99}.Release|x64.Build.0 = Release|x64
+		{D27708AA-D325-423D-9C9C-58CD9C03EF99}.Release|x86.ActiveCfg = Release|Win32
+		{D27708AA-D325-423D-9C9C-58CD9C03EF99}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
