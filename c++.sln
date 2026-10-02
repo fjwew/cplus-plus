@@ -35,6 +35,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "dynamic(dvovimirni)-arrays"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "stringi", "stringi\stringi.vcxproj", "{4D8BCDF8-F21C-4C44-9BFB-19CE046FBACD}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "structures", "structures\structures.vcxproj", "{FF8EDB79-37D1-473C-A40C-DA3362D102E8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|ARM = Debug|ARM
@@ -237,6 +239,18 @@ Global
 		{4D8BCDF8-F21C-4C44-9BFB-19CE046FBACD}.Release|x64.Build.0 = Release|x64
 		{4D8BCDF8-F21C-4C44-9BFB-19CE046FBACD}.Release|x86.ActiveCfg = Release|Win32
 		{4D8BCDF8-F21C-4C44-9BFB-19CE046FBACD}.Release|x86.Build.0 = Release|Win32
+		{FF8EDB79-37D1-473C-A40C-DA3362D102E8}.Debug|ARM.ActiveCfg = Debug|x64
+		{FF8EDB79-37D1-473C-A40C-DA3362D102E8}.Debug|ARM.Build.0 = Debug|x64
+		{FF8EDB79-37D1-473C-A40C-DA3362D102E8}.Debug|x64.ActiveCfg = Debug|x64
+		{FF8EDB79-37D1-473C-A40C-DA3362D102E8}.Debug|x64.Build.0 = Debug|x64
+		{FF8EDB79-37D1-473C-A40C-DA3362D102E8}.Debug|x86.ActiveCfg = Debug|Win32
+		{FF8EDB79-37D1-473C-A40C-DA3362D102E8}.Debug|x86.Build.0 = Debug|Win32
+		{FF8EDB79-37D1-473C-A40C-DA3362D102E8}.Release|ARM.ActiveCfg = Release|x64
+		{FF8EDB79-37D1-473C-A40C-DA3362D102E8}.Release|ARM.Build.0 = Release|x64
+		{FF8EDB79-37D1-473C-A40C-DA3362D102E8}.Release|x64.ActiveCfg = Release|x64
+		{FF8EDB79-37D1-473C-A40C-DA3362D102E8}.Release|x64.Build.0 = Release|x64
+		{FF8EDB79-37D1-473C-A40C-DA3362D102E8}.Release|x86.ActiveCfg = Release|Win32
+		{FF8EDB79-37D1-473C-A40C-DA3362D102E8}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

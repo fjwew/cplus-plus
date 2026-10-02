@@ -197,6 +197,16 @@ int main()
     showMasiv(array, size);
 
     delete[] arr;
+    
+    int x = 5;
+    int* p = &x;
+    cout << *p;
+
+
+
+
+
+
 
 
 
