@@ -39,6 +39,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "structures", "structures\st
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "enum-homework", "enum-homework\enum-homework.vcxproj", "{5BE44568-ECB7-4925-B59F-E60B86C627DC}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "functions-homework", "functions-homework\functions-homework.vcxproj", "{161690E7-038C-4305-8493-0AB3C1D08453}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|ARM = Debug|ARM
@@ -265,6 +267,18 @@ Global
 		{5BE44568-ECB7-4925-B59F-E60B86C627DC}.Release|x64.Build.0 = Release|x64
 		{5BE44568-ECB7-4925-B59F-E60B86C627DC}.Release|x86.ActiveCfg = Release|Win32
 		{5BE44568-ECB7-4925-B59F-E60B86C627DC}.Release|x86.Build.0 = Release|Win32
+		{161690E7-038C-4305-8493-0AB3C1D08453}.Debug|ARM.ActiveCfg = Debug|x64
+		{161690E7-038C-4305-8493-0AB3C1D08453}.Debug|ARM.Build.0 = Debug|x64
+		{161690E7-038C-4305-8493-0AB3C1D08453}.Debug|x64.ActiveCfg = Debug|x64
+		{161690E7-038C-4305-8493-0AB3C1D08453}.Debug|x64.Build.0 = Debug|x64
+		{161690E7-038C-4305-8493-0AB3C1D08453}.Debug|x86.ActiveCfg = Debug|Win32
+		{161690E7-038C-4305-8493-0AB3C1D08453}.Debug|x86.Build.0 = Debug|Win32
+		{161690E7-038C-4305-8493-0AB3C1D08453}.Release|ARM.ActiveCfg = Release|x64
+		{161690E7-038C-4305-8493-0AB3C1D08453}.Release|ARM.Build.0 = Release|x64
+		{161690E7-038C-4305-8493-0AB3C1D08453}.Release|x64.ActiveCfg = Release|x64
+		{161690E7-038C-4305-8493-0AB3C1D08453}.Release|x64.Build.0 = Release|x64
+		{161690E7-038C-4305-8493-0AB3C1D08453}.Release|x86.ActiveCfg = Release|Win32
+		{161690E7-038C-4305-8493-0AB3C1D08453}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
