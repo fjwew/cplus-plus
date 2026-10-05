@@ -128,18 +128,18 @@ struct cAr
 {
     char color[10];
     char mod3l[50];
+    char number0[50];
     int number1;
     char number2[50];
 };
 
-void car()
+int cAAr()
 {
     cAr car;
-
     cout << "enter color of car(char) -> "; cin >> car.color;
     cout << "enter model of car(char) -> "; cin >> car.mod3l;
     
-    cout << "choose in which method you will enter cars number: 1 - only 5 numbers, 2 - word(max 50 symbols) -> "; int choice; cin >> choice;
+    cout << "choose in which method you will enter cars number: 1 - only 5 numbers, 2 - word(max 50 symbols) 3 - words and numbers(max 50 symbols) -> "; int choice; cin >> choice;
 
     if (choice == 1)
     {
@@ -149,15 +149,25 @@ void car()
     {
         cout << "enter number of car(char) -> "; cin >> car.number2;
     }
+    else if (choice == 3)
+    {
+        cout << "enter first letters of car(char) -> "; cin >> car.number0;
+        cout << "enter number of car(int) -> "; cin >> car.number1;
+        cout << "enter last letters of car(char) -> "; cin >> car.number2;
+    }
     else
     {
         cout << "choose in which method you will enter cars number: 1 - only 5 numbers, 2 - word -> ";
         cin >> choice;
     }
 
+    return choice;
 }
 
-
+void showCarNumber(cAr car, int select)
+{
+    
+}
 
 
 
@@ -171,11 +181,27 @@ int main()
     create_showWashingMachine();*/
 
     // second exercise
-    /*\
+    
 
     // third exercise
-    cout << endl << "third exercise" << endl;
-    create_showBoiler();
+    /*cout << endl << "third exercise" << endl;
+    create_showBoiler();*/
+
+    // fourth exercise
+    cout << endl << "fourth exercise" << endl;
+
+    int choicik = 0;
+
+    choicik = cAAr();
+
+    if (select == 1)
+        cout << "cars number" << car.number1;
+    else if (select == 2)
+        cout << "cars number" << car.number2;
+    else if (select == 3)
+        cout << "cars number" << car.number0 << " " << car.number1 << " " << car.number2;
+
+
 
     /*int number = 100;
     myFirstStruct birthdate = { 15, 05, 2007, "May"};

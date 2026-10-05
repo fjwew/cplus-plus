@@ -41,6 +41,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "enum-homework", "enum-homew
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "functions-homework", "functions-homework\functions-homework.vcxproj", "{161690E7-038C-4305-8493-0AB3C1D08453}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "structures_and_workWithFiles", "structures_and_workWithFiles\structures_and_workWithFiles.vcxproj", "{3E01617E-68BA-409B-99F5-3E3B84C4638C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|ARM = Debug|ARM
@@ -279,6 +281,18 @@ Global
 		{161690E7-038C-4305-8493-0AB3C1D08453}.Release|x64.Build.0 = Release|x64
 		{161690E7-038C-4305-8493-0AB3C1D08453}.Release|x86.ActiveCfg = Release|Win32
 		{161690E7-038C-4305-8493-0AB3C1D08453}.Release|x86.Build.0 = Release|Win32
+		{3E01617E-68BA-409B-99F5-3E3B84C4638C}.Debug|ARM.ActiveCfg = Debug|x64
+		{3E01617E-68BA-409B-99F5-3E3B84C4638C}.Debug|ARM.Build.0 = Debug|x64
+		{3E01617E-68BA-409B-99F5-3E3B84C4638C}.Debug|x64.ActiveCfg = Debug|x64
+		{3E01617E-68BA-409B-99F5-3E3B84C4638C}.Debug|x64.Build.0 = Debug|x64
+		{3E01617E-68BA-409B-99F5-3E3B84C4638C}.Debug|x86.ActiveCfg = Debug|Win32
+		{3E01617E-68BA-409B-99F5-3E3B84C4638C}.Debug|x86.Build.0 = Debug|Win32
+		{3E01617E-68BA-409B-99F5-3E3B84C4638C}.Release|ARM.ActiveCfg = Release|x64
+		{3E01617E-68BA-409B-99F5-3E3B84C4638C}.Release|ARM.Build.0 = Release|x64
+		{3E01617E-68BA-409B-99F5-3E3B84C4638C}.Release|x64.ActiveCfg = Release|x64
+		{3E01617E-68BA-409B-99F5-3E3B84C4638C}.Release|x64.Build.0 = Release|x64
+		{3E01617E-68BA-409B-99F5-3E3B84C4638C}.Release|x86.ActiveCfg = Release|Win32
+		{3E01617E-68BA-409B-99F5-3E3B84C4638C}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
