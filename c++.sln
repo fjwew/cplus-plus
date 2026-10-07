@@ -43,6 +43,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "functions-homework", "funct
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "structures_and_workWithFiles", "structures_and_workWithFiles\structures_and_workWithFiles.vcxproj", "{3E01617E-68BA-409B-99F5-3E3B84C4638C}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "save-to-file", "save-to-file\save-to-file.vcxproj", "{DBEB5314-6C18-43C9-BA25-6820A88B9DE1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|ARM = Debug|ARM
@@ -293,6 +295,18 @@ Global
 		{3E01617E-68BA-409B-99F5-3E3B84C4638C}.Release|x64.Build.0 = Release|x64
 		{3E01617E-68BA-409B-99F5-3E3B84C4638C}.Release|x86.ActiveCfg = Release|Win32
 		{3E01617E-68BA-409B-99F5-3E3B84C4638C}.Release|x86.Build.0 = Release|Win32
+		{DBEB5314-6C18-43C9-BA25-6820A88B9DE1}.Debug|ARM.ActiveCfg = Debug|x64
+		{DBEB5314-6C18-43C9-BA25-6820A88B9DE1}.Debug|ARM.Build.0 = Debug|x64
+		{DBEB5314-6C18-43C9-BA25-6820A88B9DE1}.Debug|x64.ActiveCfg = Debug|x64
+		{DBEB5314-6C18-43C9-BA25-6820A88B9DE1}.Debug|x64.Build.0 = Debug|x64
+		{DBEB5314-6C18-43C9-BA25-6820A88B9DE1}.Debug|x86.ActiveCfg = Debug|Win32
+		{DBEB5314-6C18-43C9-BA25-6820A88B9DE1}.Debug|x86.Build.0 = Debug|Win32
+		{DBEB5314-6C18-43C9-BA25-6820A88B9DE1}.Release|ARM.ActiveCfg = Release|x64
+		{DBEB5314-6C18-43C9-BA25-6820A88B9DE1}.Release|ARM.Build.0 = Release|x64
+		{DBEB5314-6C18-43C9-BA25-6820A88B9DE1}.Release|x64.ActiveCfg = Release|x64
+		{DBEB5314-6C18-43C9-BA25-6820A88B9DE1}.Release|x64.Build.0 = Release|x64
+		{DBEB5314-6C18-43C9-BA25-6820A88B9DE1}.Release|x86.ActiveCfg = Release|Win32
+		{DBEB5314-6C18-43C9-BA25-6820A88B9DE1}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
