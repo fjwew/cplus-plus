@@ -1,0 +1,80 @@
+book 1
+The Hobbit
+J.R.R. Tolkien
+HarperCollins
+Fantasy
+1937
+350
+
+book 2
+1984
+George Orwell
+Penguin Books
+Dystopia
+1949
+280
+
+book 3
+Harry Potter
+J.K. Rowling
+Bloomsbury
+Fantasy
+1997
+400
+
+book 4
+The Alchemist
+Paulo Coelho
+HarperOne
+Adventure
+1988
+250
+
+book 5
+Dracula
+Bram Stoker
+Archibald Constable
+Horror
+1897
+320
+
+book 6
+The Great Gatsby
+F. Scott Fitzgerald
+Scribner
+Drama
+1925
+300
+
+book 7
+The Little Prince
+Antoine de Saint-Exupery
+Gallimard
+Fable
+1943
+220
+
+book 8
+Pride and Prejudice
+Jane Austen
+T. Egerton
+Romance
+1813
+270
+
+book 9
+The Da Vinci Code
+Dan Brown
+Doubleday
+Thriller
+2003
+330
+
+book 10
+The Catcher in the Rye
+J.D. Salinger
+Little, Brown
+Drama
+1951
+290
+
